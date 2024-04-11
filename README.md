@@ -1,7 +1,12 @@
-<br clear="both">
-<h3 align="center">Raydium Swap + Jupiter Swap examples on Solana.</h3>
-###
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
-</div>
-###
+#### Raydium Swap + Jupiter Swap examples on Solana.
+
+##### Build the project
+``` shell
+$ cargo build
+```
+##### Run the code
+``` shell
+$ cargo run
+```
+
+##### In the main.rs file, you can see the test_jupiter_swap function. If you want, you can add the same function for raydium
